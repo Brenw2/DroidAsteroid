@@ -1,0 +1,15 @@
+
+syntax: regexp
+^assets/target$
+syntax: regexp
+^core/target$
+syntax: regexp
+^html/target$
+syntax: regexp
+^java/target$
+syntax: regexp
+^assets/target$
+syntax: regexp
+^core/target$
+syntax: regexp
+^java/target$
